@@ -7,6 +7,8 @@ from .inventory import (Product,
                         NoSuchProductError,
                         NotEnoughQuantityError)
 
+# ignore this comment
+
 """
 Exercise 2 (Part One)
 ==========
